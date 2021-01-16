@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorkSmile</string>
+
+    <string name="title_bottomNav_message">Message</string>
+    <string name="title_bottomNav_channel">Channel</string>
+    <string name="title_bottomNav_organization">Organization</string>
+    <string name="title_bottomNav_calender">Calender</string>
+    <string name="title_bottomNav_setting">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
